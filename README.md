@@ -5,3 +5,5 @@ The purpose of this repositry is to share some of the efforts that the Sudanese 
 https://sks-wsr.blogspot.com/
 
 this repositry is about Data collection and Analysis on events and services. Data on events are meant to document and classify incidents of crime associated with the war situation, and data on essential services are meant to map its availability and condition.
+### The map displaying events that occurred between April 15th and May 31st, 2023 is available at the following location:
+https://raw.githack.com/sks-2023/WAR-SITUATION-ROOM/main/eventsmap.html
