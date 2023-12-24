@@ -8,6 +8,9 @@ this repositry is about Data collection and Analysis on events and services. Dat
 ### The map displaying events that occurred between April 15th and September 8th, 2023 is available at the following location:
 https://raw.githack.com/sks-2023/WAR-SITUATION-ROOM/main/eventsmap.html
 
+Sudan conflict maps by month avaliable here:
+https://github.com/sks-2023/WAR-SITUATION-ROOM/wiki/Sudan-Conflict-Maps-by-Month
+
 Report about the events from April 15th - June 23th is avaliable here:
 https://github.com/sks-2023/WAR-SITUATION-ROOM/wiki
 
